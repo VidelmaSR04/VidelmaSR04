@@ -1,0 +1,95 @@
+{
+  "$schema": "./profile.schema.json",
+  "profile": {
+    "name": "Videlma Sufi Romadhani",
+    "username": "VidelmaSR04",
+    "headline": "Full-Stack Web Developer",
+    "affiliation": "Politeknik Negeri Jember",
+    "location": "Situbondo, East Java, ID",
+    "status": "Building Laravel & Flutter systems",
+    "about": [
+      "Diploma student in Informatics Management at Politeknik Negeri Jember, building web and mobile systems with Laravel, Flutter, and MySQL.",
+      "Currently finishing a thesis on a hybrid LSTM-XGBoost stock prediction system, alongside client projects spanning POS, asset management, and mobile apps."
+    ]
+  },
+  "research": {
+    "primary": "Web Development",
+    "direction": "Practical systems for real users",
+    "themes": "Laravel / Flutter / Data prediction",
+    "narrative": "I build production-ready web and mobile systems, from POS and asset-management platforms to a hybrid LSTM-XGBoost stock prediction system for my thesis, focused on solving real operational problems for the people who use them."
+  },
+  "focus": [
+    {
+      "name": "Web Development",
+      "description": "Laravel and MySQL systems including POS, asset management, and admin dashboards built for real organizations."
+    },
+    {
+      "name": "Mobile Development",
+      "description": "Flutter apps with clean UI and REST API integration, including MongoDB-backed authentication flows."
+    },
+    {
+      "name": "Applied Data & AI",
+      "description": "Time-series forecasting with a hybrid LSTM-XGBoost model, and early exploration of AI coding agents."
+    }
+  ],
+  "projects": [
+    {
+      "name": "SIM TIK",
+      "url": "https://github.com/VidelmaSR04/SIM-TIK-KominfoSitubondo",
+      "homepage": "",
+      "focus": "Data center asset management",
+      "summary": "Laravel-based asset management system for Kominfo Situbondo, with role-based data entry and admin verification workflows.",
+      "heroLabel": "Internship build"
+    },
+    {
+      "name": "MIRAI",
+      "url": "https://github.com/VidelmaSR04/Mirai-Prediksi-Haid",
+      "homepage": "",
+      "focus": "Menstrual cycle prediction",
+      "summary": "Menstrual cycle prediction app with a Laravel and MongoDB admin panel plus a Flutter mobile companion app.",
+      "heroLabel": "Full-stack build"
+    }
+  ],
+  "techStack": [
+    "Laravel",
+    "PHP",
+    "MySQL",
+    "MongoDB",
+    "Flutter",
+    "JavaScript",
+    "Python",
+    "Tailwind CSS",
+    "Git"
+  ],
+  "links": [
+    {
+      "label": "GitHub",
+      "value": "VidelmaSR04",
+      "url": "https://github.com/VidelmaSR04",
+      "logo": "github",
+      "color": "9333EA"
+    },
+    {
+      "label": "LinkedIn",
+      "value": "videlma-sufi-romadhani",
+      "url": "https://www.linkedin.com/in/videlma-sufi-romadhani",
+      "logo": "linkedin",
+      "color": "0A66C2"
+    },
+    {
+      "label": "Instagram",
+      "value": "videll_s.r",
+      "url": "https://www.instagram.com/videll_s.r",
+      "logo": "instagram",
+      "color": "E4405F"
+    }
+  ],
+  "activity": {
+    "enabled": true,
+    "limit": 6
+  },
+  "appearance": {
+    "palette": "nebula"
+  },
+  "footer": "Building practical Laravel & Flutter systems, one project at a time."
+}
