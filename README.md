@@ -50,14 +50,6 @@ I build practical Laravel and Flutter systems for real organizations — from PO
 | **MARIMO** *(final thesis · repo coming soon)* | LSTM-XGBoost · Python | Seed stock prediction & priority system for PT Sage Mashlahat Indonesia. |
 | **PJC Komputer POS** *(repo coming soon)* | Laravel · MySQL | POS and inventory system with barcode scanning and a restock recommendation engine. |
 
-### 📊 GitHub Stats
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VidelmaSR04&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidelmaSR04&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
 ---
 
 <div align="center">
