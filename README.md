@@ -52,12 +52,11 @@ I build practical Laravel and Flutter systems for real organizations — from PO
 
 ### 📊 GitHub Stats
 
-<div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=VidelmaSR04&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidelmaSR04&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VidelmaSR04&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidelmaSR04&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
 ---
 
