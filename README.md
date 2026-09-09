@@ -25,7 +25,6 @@ I build practical Laravel and Flutter systems for real organizations — from PO
 
 - 🎓 Finishing my final thesis (**MARIMO**) — a seed stock prediction & priority system using a hybrid LSTM-XGBoost model
 - 🛠️ Building Laravel + Flutter systems for real clients (POS, asset management, health tracking)
-- 🌱 Exploring AI coding agents through Microsoft's *AI Agents for Beginners* course
 
 ### 💻 Tech Stack
 
