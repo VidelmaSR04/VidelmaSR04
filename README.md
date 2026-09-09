@@ -24,8 +24,9 @@ I build practical Laravel and Flutter systems for real organizations — from PO
 ### 🧭 Currently
 
 - 🎓 Finishing my final thesis (**MARIMO**) — a seed stock prediction & priority system using a hybrid LSTM-XGBoost model
-- 🛠️ Building Laravel + Flutter systems for real clients (POS, asset management, health tracking)
-
+- 💼 Developing **SIM TIK** during my internship at Kominfo Situbondo
+- 🎨 Improving my UI/UX and front-end skills through redesigns, animations, and hands-on projects
+  
 ### 💻 Tech Stack
 
 **Languages & Frameworks**
